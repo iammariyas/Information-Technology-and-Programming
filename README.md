@@ -3,7 +3,7 @@
 ___
   [**1 семестр:**](https://github.com/iammariyas/Information-Technology-and-Programming/tree/main/1_sem)
 
-    _School_SSU:_
+  _School_SSU:_
 
 - [Задание 1.1 Билеты в кино](https://github.com/iammariyas/Information-Technology-and-Programming/blob/main/1_sem/School_SSU/task_1.1.py)
 - [Задание 1.2 Калькулятор процентов](https://github.com/iammariyas/Information-Technology-and-Programming/blob/main/1_sem/School_SSU/task_1.2.py)
