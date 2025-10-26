@@ -1,6 +1,6 @@
 # Information-Technology-and-Programming
 Здесь хранятся домашние задания в рамках курса "Информационные технологии и программирование" за 1 и 2 семестр 1 курса.
-
+___
   [**1 семестр:**](https://github.com/iammariyas/Information-Technology-and-Programming/tree/main/1_sem)
 
   _School_SSU:_
@@ -20,8 +20,9 @@
 - [2.3. Циклы](https://github.com/iammariyas/Information-Technology-and-Programming/blob/main/1_sem/Yandex_LMS/2.3.%20%D0%A6%D0%B8%D0%BA%D0%BB%D1%8B.md)
 - [2.4. Вложенные циклы](https://github.com/iammariyas/Information-Technology-and-Programming/blob/main/1_sem/Yandex_LMS/2.4.%20%D0%92%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%86%D0%B8%D0%BA%D0%BB%D1%8B.md)
 - [3.1. Строки, кортежи, списки](https://github.com/iammariyas/Information-Technology-and-Programming/blob/main/1_sem/Yandex_LMS/3.1.%20%D0%A1%D1%82%D1%80%D0%BE%D0%BA%D0%B8%2C%20%D0%BA%D0%BE%D1%80%D1%82%D0%B5%D0%B6%D0%B8%2C%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8.md)
-
+___
   [**2 семестр:**](https://github.com/iammariyas/Information-Technology-and-Programming/tree/main/2_sem)
+  
   _School_SSU:_
 - [Задание 7.1 Множества - цифры](https://github.com/iammariyas/Information-Technology-and-Programming/blob/main/2_sem/School_SSU/7.1_set_of_digits.py)
 - [Задание 7.2 Множества - символы](https://github.com/iammariyas/Information-Technology-and-Programming/blob/main/2_sem/School_SSU/7.2_set_of_symbol.py)
