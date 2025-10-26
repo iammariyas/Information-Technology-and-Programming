@@ -3,7 +3,7 @@
 ___
   [**1 семестр:**](https://github.com/iammariyas/Information-Technology-and-Programming/tree/main/1_sem)
 
-  _School_SSU:_
+    _School_SSU:_
 
 - [Задание 1.1 Билеты в кино](https://github.com/iammariyas/Information-Technology-and-Programming/blob/main/1_sem/School_SSU/task_1.1.py)
 - [Задание 1.2 Калькулятор процентов](https://github.com/iammariyas/Information-Technology-and-Programming/blob/main/1_sem/School_SSU/task_1.2.py)
@@ -23,7 +23,7 @@ ___
 ___
   [**2 семестр:**](https://github.com/iammariyas/Information-Technology-and-Programming/tree/main/2_sem)
   
-  _School_SSU:_
+    _School_SSU:_
 - [Задание 7.1 Множества - цифры](https://github.com/iammariyas/Information-Technology-and-Programming/blob/main/2_sem/School_SSU/7.1_set_of_digits.py)
 - [Задание 7.2 Множества - символы](https://github.com/iammariyas/Information-Technology-and-Programming/blob/main/2_sem/School_SSU/7.2_set_of_symbol.py)
 - [Задание 7.3 Множества - числа](https://github.com/iammariyas/Information-Technology-and-Programming/blob/main/2_sem/School_SSU/7.3_set_of_numbers.py)
